@@ -1,0 +1,2 @@
+this task provid a 2d dimentiona array
+it scans from the user 12 values and make them in a shape of array
