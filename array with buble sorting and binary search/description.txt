@@ -1,0 +1,4 @@
+Write a C code that ask the user to enter a value to search about, if the
+value existing in the 10 values, the program will print “Value Found”. If the
+value is not exist, the program will print “Value Not Exist”. Use Binary
+Searching Algorithm.
