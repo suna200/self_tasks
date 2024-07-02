@@ -1,0 +1,7 @@
+Write C code that will ask the user to enter 2
+numbers, then the main function will call a
+function named Get_Max that takes the 2
+values entered by the user then return the
+maximum of them.
+The main function then will print the
+returned value
