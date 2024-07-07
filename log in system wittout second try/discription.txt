@@ -1,0 +1,9 @@
+Write a C code that ask the user to enter his ID and
+then the program will print his name.
+Available IDs are:
+1234-> Ahmed
+5678 -> Youssef
+1145 -> Mina
+Any other number, the program will print Wrong ID
+
+with passwords
