@@ -1,0 +1,1 @@
+array in function that takes from user 5 values using pointer then print them normally. 
