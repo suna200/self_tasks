@@ -1,0 +1,1 @@
+very simple task that using pointer in function to change a certain variable value
