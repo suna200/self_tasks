@@ -1,0 +1,1 @@
+this function takes from user two values and get their summition using a pointer in a function.
