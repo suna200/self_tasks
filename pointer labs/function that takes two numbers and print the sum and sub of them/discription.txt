@@ -1,0 +1,1 @@
+pointer to function that take 2 oponent and return therir sum and sub
