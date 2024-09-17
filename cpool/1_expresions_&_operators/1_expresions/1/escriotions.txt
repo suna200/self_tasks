@@ -1,0 +1,2 @@
+this program is designed to take from user 4 values,\n \tthen print the ratio of (a+b)/(c-d)
+if the vaue of (c-d) = 0.the programe will print error.
