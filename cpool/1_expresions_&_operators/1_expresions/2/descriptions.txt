@@ -1,0 +1,1 @@
+this programe designed to take a character from the user and print it with its ASKII code
