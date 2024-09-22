@@ -1,0 +1,1 @@
+this programe designed to take a two values from the user and print the division and modules.
