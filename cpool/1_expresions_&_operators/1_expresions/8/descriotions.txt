@@ -1,0 +1,3 @@
+Write a C program to input two numbersl
+from user and find their power
+using pow() function.
